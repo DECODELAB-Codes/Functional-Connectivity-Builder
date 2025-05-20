@@ -21,8 +21,8 @@ This repository contains modular Python code for building functional connectivit
 ```
 functional-connectivity-builder/
 ├── notebook/
-│   └── Code for Dot product, normalization, edge weights and null hypothesis 5-19-25.ipynb    # Combined Jupyter workflow
-├── scripts/                                                # Optional refactored .py versions
+│   └── Code for Dot product, normalization, edge weights and null hypothesis.ipynb   # Combined Jupyter workflow
+├── scripts/                                                                          # Optional refactored .py versions
 │   ├── convert_timestamps.py
 │   ├── calculate_firing_rates.py
 │   ├── generate_dot_products.py
